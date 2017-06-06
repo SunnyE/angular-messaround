@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # FirstAngularApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.6.
@@ -29,5 +29,4 @@ Before running the tests make sure you are serving the app via `ng serve`.
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 =======
 # angular-messaround
-a  basic app made with angular 
->>>>>>> 362803969f046385d7f8032b4ee5ba538e93fba3
+a  basic app made with angular to toy around with different function in angular and get a feel for the language. 
